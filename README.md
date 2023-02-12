@@ -9,4 +9,7 @@ The objective of the project was to answer business questions in order to drive 
 ## Data
 A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more.
 
+[count of customers per country.csv](https://github.com/itslucero/Rockbuster-SQL/files/10715560/count.of.customers.per.country.csv)
+
 View the project viz's here:
+https://public.tableau.com/app/profile/lucero.vargas/viz/2_9StorytellingwithDataPresentations_16673349017580/InfluenzaStory
